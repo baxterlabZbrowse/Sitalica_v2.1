@@ -1,6 +1,6 @@
 # Sitalica_v2.1
 
-This repository contains the necessary files to use Setaria Italica v2.1 in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
+This repository contains the necessary files to use Setaria italica v2.1 in [Zbrowse] (https://github.com/baxterlabZbrowse/ZBrowse).
 
 ### Requirements
 
